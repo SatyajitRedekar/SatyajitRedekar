@@ -23,8 +23,8 @@
 </picture>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=SatyajitRedekar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=SatyajitRedekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SatyajitRedekar&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SatyajitRedekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
