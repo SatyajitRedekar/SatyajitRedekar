@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Artificial Intelligence Project<br>👯 I’m looking to collaborate on Aiidateam<br>🤝 I’m contributed in JupyterLab's<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br>⚡ Fun fact is i knew 6 + computer languages 
+🔭 I’m currently working on Artificial Intelligence Project<br>👯 I’m looking to collaborate on Aiidateam<br>🤝 I’m contributed in JupyterLab's<br>🌱 I’m currently learning about Artificial Intelligence and Machine Learning<br>⚡ Fun fact is i knew 6 + computer languages 
 
 
 ## 🌐 Socials:
