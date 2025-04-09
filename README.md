@@ -1,5 +1,5 @@
 <h1>Hello world!, I'm Satyajit, a Indian Software Developer 👋</h1>
-<p>A passionate for Artificial Intelligence and Software Development !</p>
+<p>A passionate for Artificial Intelligence and Game Development !</p>
 
 
 # 💫 About Me:
